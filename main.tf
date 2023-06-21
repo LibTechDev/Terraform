@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "remote" {
-    organization = "org-x7jp7ueHKAuUcpL5"
+    organization = "libtechnz"
 
     workspaces {
       name = "gh-actions-demo"
